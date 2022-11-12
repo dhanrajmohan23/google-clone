@@ -1,0 +1,24 @@
+.container {
+  background-color: #f2f2f2;
+  color: #70757a;
+  height: 10vh;
+}
+
+.subFooter {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0.9375rem 1.875rem;
+  border-bottom: 1px solid #dadce0;
+}
+
+.mainFooter {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.9375rem 1.875rem;
+}
+
+.listContainer {
+  display: flex;
+  gap: 1rem;
+  list-style-type: none;
+}

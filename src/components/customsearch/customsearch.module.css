@@ -1,0 +1,33 @@
+.searchWrapper {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.searchInput {
+  padding: 1.2rem 2rem;
+  height: 2.75rem;
+  border: 1px solid #dfe1e5;
+  max-width: 584px;
+  width: 100%;
+  border-radius: 1.5rem;
+}
+
+.imgSearch {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.micIcon {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.imgWrapper {
+  display: flex;
+  gap: 1rem;
+  position: absolute;
+  right: 7rem;
+  top: 0.5rem;
+}

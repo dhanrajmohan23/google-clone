@@ -1,0 +1,9 @@
+.primaryButton {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 0.25rem;
+  color: #3c4043;
+  display: grid;
+  place-content: center;
+  cursor: pointer;
+}
